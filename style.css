@@ -1,0 +1,23 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.completed {
+  text-decoration: line-through;
+  opacity: 0.6;
+}
+
+li span {
+  cursor: pointer;
+}
+
+/* Dark Mode Support */
+.dark-mode {
+  background-color: #121212;
+  color: #f0f0f0;
+}
+
+.dark-mode .list-group-item {
+  background-color: #1e1e1e;
+  color: #f0f0f0;
+}
