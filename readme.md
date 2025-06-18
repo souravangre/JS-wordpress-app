@@ -1,6 +1,6 @@
 # 📝 To-Do Manager – JavaScript + WordPress CMS Integration
 
-🔗 **Live Demo**: [Visit the Project on WordPress.com](https://souravportf0li0.wordpress.com/)
+🔗 **Live Demo**: [Visit the Project on WordPress.com](souravportf0li0.wordpress.com/)
 
 A responsive and feature-rich To-Do List application built with HTML, CSS, Bootstrap, and JavaScript.  
 This project demonstrates how custom frontend apps can be cleanly embedded and integrated into WordPress CMS environments — combining modern UI/UX with enterprise-grade content platforms.
